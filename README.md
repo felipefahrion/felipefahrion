@@ -4,7 +4,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=felipefahrion.felipefahrion)
 
 </p>
-<div size='20px'> Hi! My name is Felipe . Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! I'm Felipe. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me </h2>
@@ -30,6 +30,8 @@
  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
 </h2>
 <a href = 'https://www.linkedin.com/in/felipe-fahrion-523b07129'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<br>
+<br>
 <a href = 'https://www.github.com/felipefahrion'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
